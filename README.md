@@ -1,6 +1,6 @@
 termsql
 =======
-
+Testing - ro1
 Convert text from a file or from stdin into SQL table and query it instantly. Uses sqlite as backend.
 The idea is to make SQL into a tool on the command line or in scripts.
 
